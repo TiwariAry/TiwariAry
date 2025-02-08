@@ -2,7 +2,7 @@
 
 ---
 
-![Image](https://github.com/user-attachments/assets/3c2d9ba9-8a20-4dc0-87fd-573f2afb2e24)
+![Image](https://github.com/user-attachments/assets/9eb7fe78-7115-4a83-aaad-bcc8db004b38)
 
 I am a passionate **Full-Stack Developer**, **Data Analyst**, and **Machine Learning Enthusiast** with a love for building dynamic, user-friendly web applications and analyzing data to explore new findings. :wink:
 
