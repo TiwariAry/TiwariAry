@@ -1,28 +1,36 @@
-### Hey Aryan here 👋
+### Hey, Aryan here 👋
 
 ---
 
-<p align="center">
-  <img src="https://drive.google.com/file/d/1czZ5BWG97zTF6bcAgXmuu33ZyQYssTdr/view?usp=sharing" width="100%" title="Intro Card" alt="Intro Card">
-</p>
+![Image](https://github.com/user-attachments/assets/3c2d9ba9-8a20-4dc0-87fd-573f2afb2e24)
 
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
- 
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
- 
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
- 
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
- 
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
- 
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
- 
- 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
+I am a passionate **Full-Stack Developer**, **Data Analyst**, and **Machine Learning Enthusiast** with a love for building dynamic, user-friendly web applications and analyzing data to explore new findings. :wink:
 
+🌐 I specialize in **MERN Stack** development and have experience with **Java (JavaFX)**, **Python (Flask)**, and **Tailwind CSS**.
 
-![Profile views](https://gpvc.arturio.dev/Souravdey777)  <img src="https://img.shields.io/github/followers/Souravdey777?label=Follow" style=" float:left, margin-right:10px" />
+📊 As a **Data Analyst**, I enjoy turning raw data into actionable insights, leveraging tools and techniques to solve real-world problems.
 
+🔭 Currently exploring **3D design with Blender** to create an interactive portfolio while improving on my current skills.
+
+🧠 Constantly learning and growing, both in tech and personally—embracing challenges to improve every day.
+ 
+<h2>🔥 What I’m Working On</h2>
+<ul>
+  <li>
+    🚀 Mastering DSA: In order to enhance my problem-solving and coding efficiency.
+  </li>
+  <li>
+    📱 FitAI : FitAI will be a personalized fitness and nutrition planning web app that uses Machine Learning to analyze users' health data and generate customized workout routines and diet plans.
+  </li>
+  <li>
+    🤖 Building predictive models and exploring data-driven solutions in Machine Learning projects.
+  </li>
+  <li>
+    🌍 Crafting an interactive 3D portfolio using Blender to showcase my skills and projects.
+  </li>
+</ul>
+ 
+ 🤔 I’m looking for people to participate in hackathon with me.
 
 ---
 
@@ -32,7 +40,6 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
@@ -40,42 +47,35 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=google%20cloud&logoColor=white">
-<img src="https://img.shields.io/badge/-Progressive Web Apps-5A0FC8?style=flat">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white">
+<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaFX-2C2255?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/-RESTful%20API-4BAF4F?style=flat&logo=api&logoColor=white">
+<img src="https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white">
+<img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white">
+
 
 ### Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
-
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
+[![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TiwariAry&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TiwariAry&show_icons=true&hide_border=true)
 
 ---
 
 
 ### You can find in me in the web 🌍
-[<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="Souarvdey777 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AryanTiwari" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][linkedin]
+[<img align="left" alt="AryanTiwari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 <br/>
 
-
----
-### You can checkout my blogs :loudspeaker: 
-
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.souravdey777.vercel.app/getMediumBlogs?username=Souravdey777&type=vertical)](https://medium.com/@Souravdey777)
-
-[Add your blogs to your github profile using my Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs) 
 
 ---
 
@@ -83,11 +83,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Souravdey777](https://github.com/Souravdey777)
-
-[website]: https://souravdey777.github.io/Portfolio/
-[twitter]: https://twitter.com/Souravdey777
-[youtube]: https://youtube.com/
-[instagram]: https://www.instagram.com/souravdey777/
-[linkedin]: https://www.linkedin.com/in/sourav-dey/
-[medium]: https://medium.com/@Souravdey777/
+[linkedin]: https://www.linkedin.com/in/aryan-tiwari-6844a9250/
