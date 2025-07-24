@@ -6,11 +6,11 @@
 
 I am a passionate **Full-Stack Developer**, **Data Analyst**, and **Machine Learning Enthusiast** with a love for building dynamic, user-friendly web applications and analyzing data to explore new findings. :wink:
 
-🌐 I specialize in **MERN Stack** development and have experience with **Java (JavaFX)**, **Python (Flask)**, and **Tailwind CSS**.
+🌐 I specialize in **MERN Stack** development and have experience with **Java (JavaFX)** and **Python (Flask)**.
 
 📊 As a **Data Analyst**, I enjoy turning raw data into actionable insights, leveraging tools and techniques to solve real-world problems.
 
-🔭 Currently exploring **3D design with Blender** to create an interactive portfolio while improving on my current skills.
+🔭 Currently exploring **Blog apps** to create a Blog app which will improve my current skills.
 
 🧠 Constantly learning and growing, both in tech and personally—embracing challenges to improve every day.
  
@@ -20,13 +20,7 @@ I am a passionate **Full-Stack Developer**, **Data Analyst**, and **Machine Lear
     🚀 Mastering DSA: In order to enhance my problem-solving and coding efficiency.
   </li>
   <li>
-    📱 FitAI : FitAI will be a personalized fitness and nutrition planning web app that uses Machine Learning to analyze users' health data and generate customized workout routines and diet plans.
-  </li>
-  <li>
     🤖 Building predictive models and exploring data-driven solutions in Machine Learning projects.
-  </li>
-  <li>
-    🌍 Crafting an interactive 3D portfolio using Blender to showcase my skills and projects.
   </li>
 </ul>
  
@@ -38,24 +32,19 @@ I am a passionate **Full-Stack Developer**, **Data Analyst**, and **Machine Lear
 ### Tech & Tools Preference
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white">
 <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaFX-2C2255?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/-RESTful%20API-4BAF4F?style=flat&logo=api&logoColor=white">
 <img src="https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white">
 <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white">
 
 
 ### Other Languages I know
